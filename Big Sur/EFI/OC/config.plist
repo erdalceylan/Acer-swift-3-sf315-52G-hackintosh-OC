@@ -8,7 +8,7 @@
 		<array>
 			<dict>
 				<key>Comment</key>
-				<string>HPET _CRS (Needs _CRS to XCRS Rename)</string>
+				<string>HPET _CRS (Needs _CRS to XCRS Rename )</string>
 				<key>Enabled</key>
 				<true/>
 				<key>Path</key>
@@ -939,7 +939,7 @@
 			<key>PasswordSalt</key>
 			<data></data>
 			<key>SecureBootModel</key>
-			<string>j132</string>
+			<string>Disabled</string>
 			<key>ScanPolicy</key>
 			<integer>0</integer>
 			<key>Vault</key>
