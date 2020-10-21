@@ -17,4 +17,4 @@
   - SD Card Reader : not working :x:
   - Fingerprint : not working :x:
   
-### Thaks for SSDT [@linhnguyengas](https://github.com/linhnguyengas)
+### Thanks for SSDT [@linhnguyengas](https://github.com/linhnguyengas)
